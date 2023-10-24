@@ -5,9 +5,9 @@ Dave's Chat Room 💬
 
 🔭 What can the app do?
 
-	👨‍💻 By using some of the greatest and most important concepts of React, which are React Hooks and React States combined with Firebase I have made a basic chat room for concurrent users. The chat app is user friendly as it has a bad-word filter which automatically bans the account that has connected to the server.
+👨‍💻 By using some of the greatest and most important concepts of React, which are React Hooks and React States combined with Firebase I have made a basic chat room for concurrent users. The chat app is user friendly as it has a bad-word filter which automatically bans the account that has connected to the server.
 
-	🔐 The authentication method used in this specific project is by Google Auth which is directly sent to the Firebase DB and later on adds a session for the user that has logged-in.
+🔐 The authentication method used in this specific project is by Google Auth which is directly sent to the Firebase DB and later on adds a session for the user that has logged-in.
 
 🌐 App Showcase
 
