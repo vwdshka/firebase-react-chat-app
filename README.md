@@ -1,14 +1,14 @@
 ﻿# firebase-react-chat-app
  
-Dave's Chat Room 💬
+<h1>Dave's Chat Room 💬</h1>
 
-🔭 What can the app do?
+<h4>🔭 What can the app do?</h4>
 
 👨‍💻 By using some of the greatest and most important concepts of React, which are React Hooks and React States combined with Firebase I have made a basic chat room for concurrent users. The chat app is user friendly as it has a bad-word filter which automatically bans the account that has connected to the server.
 
 🔐 The authentication method used in this specific project is by Google Auth which is directly sent to the Firebase DB and later on adds a session for the user that has logged-in.
 
-🌐 App Showcase
+<h4>🌐 App Showcase</h4>
 
 🛸 First, we land on the starter page where it requires us to log in by using our Google Account. We are also met by a kind warning to not violate community guidelines (in other words, use non-family-friendly words)
 
@@ -19,7 +19,7 @@ Dave's Chat Room 💬
 
 ![dave-chat-room-gif-2-min](https://github.com/vwdshka/firebase-react-chat-app/assets/83828320/38104880-2715-48d3-857e-6547db779809)
 
-📋 How to run?
+<h4>📋 How to run?</h4>
 
 * Through the GitHub Pages link that is available when looking at the repo.
 * By using ```npm start``` after cloning the repo and testing everything out on your local device.
