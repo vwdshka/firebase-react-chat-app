@@ -1,6 +1,5 @@
-![dave-chat-room-gif-1](https://github.com/vwdshka/firebase-react-chat-app/assets/83828320/60c5231f-06fa-4bd1-8a3f-36178c7def3e)﻿# firebase-react-chat-app
-
-
+﻿# firebase-react-chat-app
+ 
 Dave's Chat Room 💬
 
 🔭 What can the app do?
